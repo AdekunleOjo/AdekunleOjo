@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Adekunle
 
-## Certified Data Analyst with 4+ Years of Experience
+## Certified Data Analyst with 3+ Years of Experience
 
 I am a results-driven Data Analyst with over four years of experience transforming raw data into meaningful insights that support smarter decision-making and business growth.
 
